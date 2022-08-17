@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesse-maurice
-- 👀 I’m interested in Frront End Software Development
+- 👀 I’m interested in Front End Software Development
 - 🌱 I’m currently learning html, css, python and javascript
 - 💞️ I’m looking to collate on all of these.
 - 📫 How to reach me +2348052233554

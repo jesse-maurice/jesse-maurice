@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesse-maurice iyoha
 ===========================================================================================================================================
 
-Web Developer, FrontEnd Developer
+FrontEnd Web Developer
 --------------------------------
 
-As an electrical engineer with 3 years of experience in designing, testing, and developing complex electrical systems, I am now pursuing a career as a front-end developer. I have gained experience in HTML, CSS, JavaScript, and other front-end technologies through self-study and online courses. I am highly motivated, detail-oriented, and possess a strong work ethic, and am confident that I can excel in a front-end developer role.
+Passionate about frontend and backend development , with a keen interest in monochrome photography. I bring a wealth of experience in software development, IT consulting, and web development to deliver innovative solutions.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [iyohajessy@gmail.com](mailto:iyohajessy@gmail.com)
-* 🧠  I'm learning React JS, vue JS, Angular JS, etc
+* 🧠  I'm learning React JS, Next JS, Vue JS, etc
 * 🤝  I'm open to collaborating on any and all projects that will make me better at coding really.
 
 <a href="https://www.twitter.com/maurice_js" target="_blank" rel="noreferrer"><img

@@ -9,7 +9,7 @@ I became a software engineer in 2021, since then I’ve been tinkering on the we
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [iyohajessy@gmail.com](mailto:iyohajessy@gmail.com)
-* 🧠  I'm learning React JS, Next JS, Vue JS, etc
+* 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on any and all projects that will make me better at coding really.
 
 <a href="https://www.twitter.com/maurice_js" target="_blank" rel="noreferrer"><img

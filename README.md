@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jesse-maurice iyoha
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maurice.
 ===========================================================================================================================================
 
-FrontEnd Web Developer
+Full-Stack Engineer
 --------------------------------
 
-Passionate about frontend and backend development , with a keen interest in monochrome photography. I bring a wealth of experience in software development, IT consulting, and web development to deliver innovative solutions.
+An engineer. Problem solver. Currently founded Monochrome: creating a community of urban/monochrome photographers, uploading various stock images to use globally.
+I became a software engineer in 2021, since then I’ve been tinkering on the web making products people love.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [iyohajessy@gmail.com](mailto:iyohajessy@gmail.com)
